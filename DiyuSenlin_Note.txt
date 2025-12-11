@@ -1,0 +1,9 @@
+Notice:
+
+Due to time constraints (and my severe lack of programming skills), I had to cut many things from the final version of Diyu Senlin. I removed the items tab from the Journal, though I do have the narrative written for each item. It was causing me issues to code in what text appeared when, and I felt it dragged down the gameplay anyway, so I removed it for now.
+I also got rid of the timer's ability to pause in the Journal menu, as it was causing complications with the Lose condition.
+Another thing I got rid of was the idea of having an encroaching effect on the screen as the timer counted down. As previously stated I am not a great programmer at all and I was struggling a lot with Unreal. So for now that is removed.
+
+I may pick this project back up in the future to re-add the scrapped content, but now please enjoy this completed version of Diyu Senlin.
+
+Side note: Yes it is beatable. I've checked.
